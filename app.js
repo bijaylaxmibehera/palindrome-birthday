@@ -151,6 +151,8 @@ function clickHandler() {
   var bdayStr=dateInput.value;
   if (bdayStr!='') {
     var listOfDate=bdayStr.split('-');
+  }else{
+    outputBox.innerText="Date should not be empty"
   }
   var date={
     day:Number(listOfDate[2]),
