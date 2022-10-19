@@ -2,7 +2,7 @@
 
 # Palindrome birthday
 
-This is a funny web app that basically tells is your birthday is a **palindrome** if not then how may days you missed by? It tells the next palindrome date.
+This is a funny web app that basically tells is your birthday is a **palindrome** if not then how many days you missed by? It tells the next palindrome date.
 ## Tech Stack
 
 - HTML5
